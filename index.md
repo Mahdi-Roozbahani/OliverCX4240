@@ -1,6 +1,6 @@
 # Welcome to GitHub Pages
 
-[alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjhrYOqq7LiAhXFITQIHcHmBkAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fgerman-shepherd-dog%2F&psig=AOvVaw2nkKIVH36b2qtfKgZM8GhS&ust=1558724481379465 "Logo Title Text 1")
+[alt text](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg "Logo Title Text 1")
 
 You can use the [editor on GitHub](https://github.com/Mahdi-Roozbahani/OliverCX4240/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
